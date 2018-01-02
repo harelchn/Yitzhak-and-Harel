@@ -8,5 +8,6 @@ namespace dotNet5778_project01_315285494_211486493
 {
     public class Class1
     {
+        int i;
     }
 }
